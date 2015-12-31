@@ -1,1 +1,0 @@
-This is a place where my solutions to various olympiad problems lie!
