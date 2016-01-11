@@ -136,11 +136,11 @@ public class Library {
 	public static void main(String[] args) {
 		Library example = new Library();
 		
-		example.addNewMember("Marios", "Kyriakou", "25524523");
-		example.addNewMember("Gennady", "Korotkevich", "42342423");
+		example.addNewMember("John", "Smith", "123456789");
+		example.addNewMember("Smith", "John", "987654321");
 		example.printAllMembers();
-		example.addNewBook("Harry Potter", "J.K.Rowling", true);
-		example.addNewBook("Competitive Programming 3", "Steven Halim", false);
+		example.addNewBook("NewBookExample", "AuthorExample", true);
+		example.addNewBook("NonFictionBookExample", "AnotherAuthor", false);
 		example.printAllBooks();
 		example.addNewLoan(1, 1);
 		example.addNewLoan(2, 2);
