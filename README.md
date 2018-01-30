@@ -14,6 +14,7 @@ In this repository I will try to share some of my favorite solutions from varyin
   * **HackerRank**
   * **Facebook HackerCup**
   * **Google Code Jam**
+  * **USACO (USA Computing Olympiad)**
   * **Balkan Olympiad in Informatics**
   * **International Olympiad in Informatics**
   
