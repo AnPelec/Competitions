@@ -1,3 +1,6 @@
+// My solution in SPOJ's ORDERSET using Cartesian Tree / Treap
+// a randomized balanced binary search tree
+
 #include <bits/stdc++.h>
 
 using namespace std;
