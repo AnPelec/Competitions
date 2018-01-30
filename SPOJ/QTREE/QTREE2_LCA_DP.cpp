@@ -1,3 +1,7 @@
+// Solution to QTREE2
+// Solution uses Lowest Common Ancestor (LCA) by the Binary Lifting Technique (Dynamic Programming)
+// Total Complexity is O(NlogN)
+
 #include <algorithm>
 #include <iostream>
 #include <utility>
