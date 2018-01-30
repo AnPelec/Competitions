@@ -1,3 +1,5 @@
+// Solution uses segment tree with lazy propagation
+
 #include <bits/stdc++.h>
 #define MAXN 100010
 
