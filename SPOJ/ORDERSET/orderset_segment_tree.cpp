@@ -1,3 +1,7 @@
+// My solution in ORDERSET using segment tree
+// As segment tree is a static data structure, my solution is offline
+// ie it first reads the whole data and performs data compression
+
 #include <algorithm>
 #include <stdlib.h>
 #include <string.h>
